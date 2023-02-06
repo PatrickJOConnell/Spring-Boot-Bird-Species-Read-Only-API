@@ -3,7 +3,7 @@ A read only java API built with Spring Boot
 
 DB contains records or 16,000+ bird species. Relevant enpoints are defined in the BirdSpeciesController Class.
 
-Spring Security Password (Basic HTTP Auth)
+Spring Security Details (Basic HTTP Auth)
 Username: apiuser
 Password: UnsecurePassword
 
